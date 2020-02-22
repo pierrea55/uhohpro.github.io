@@ -1,7 +1,7 @@
 {
 	"appLinks": {
 		"apps": [],
-		"details": []
+		"details": [{}]
 	},
 	"webcredentials": {
 		"apps": ["PCKD479686.uhohPro"]
